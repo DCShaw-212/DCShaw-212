@@ -1,0 +1,27 @@
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.exe
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.deps.json
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.runtimeconfig.json
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.runtimeconfig.dev.json
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.dll
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.pdb
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.csproj.AssemblyReference.cache
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.AssemblyInfoInputs.cache
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.AssemblyInfo.cs
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.csproj.CoreCompileInputs.cache
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.dll
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.pdb
+C:\Users\Dustin\OneDrive\Desktop\CIS 244\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.genruntimeconfig.cache
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.exe
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.deps.json
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.runtimeconfig.json
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.runtimeconfig.dev.json
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.dll
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\bin\Debug\netcoreapp3.1\Shaw_Assn2.pdb
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.csproj.AssemblyReference.cache
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.AssemblyInfoInputs.cache
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.AssemblyInfo.cs
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.csproj.CoreCompileInputs.cache
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.dll
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.pdb
+C:\Users\Dustin\projects\Shaw_Assn2\Shaw_Assn2\obj\Debug\netcoreapp3.1\Shaw_Assn2.genruntimeconfig.cache
