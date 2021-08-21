@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mad_hat", "Mad_hat.pyproj", "{6C77E8BF-6338-4265-929D-C14DF2AA3627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C77E8BF-6338-4265-929D-C14DF2AA3627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C77E8BF-6338-4265-929D-C14DF2AA3627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45911EED-531F-437C-BC0B-0CC93DE68B16}
+	EndGlobalSection
+EndGlobal
